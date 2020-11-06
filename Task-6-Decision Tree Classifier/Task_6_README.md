@@ -1,5 +1,3 @@
-# The Sparks Foundation Internship Tasks
-
 **Task-6 : Prediction using the Decision Tree Algorithm**
           
           - To create the Decision Tree Classifier.
