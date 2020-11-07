@@ -2,4 +2,4 @@
           
           - To create the Decision Tree Classifier.
             The purpose is to predict the correct class in accordance with 
-            any new data which is fed into the classifier.
+            any new data that we feed into the classifier.
