@@ -10,3 +10,10 @@
           - To create the Decision Tree Classifier.
           - The purpose is to predict the respective/correct class in accordance with 
             any new data that we feed into the classifier.
+            
+**Task-7 : Stock Market Prediction using Numerical and Textual Analysis**
+          
+          - To create a hybrid model for stock price/performance 
+            prediction using numerical analysis of historical
+            stock prices and sentimental analysis of the
+            news headlines.
