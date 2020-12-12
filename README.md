@@ -5,7 +5,7 @@
 * **As a business manager, to find out the weak areas where to work on so as to make more profit.**
 * **To see what all business problems to derive while exploring the data.**
 
-## **Task-5 : Exploratory Data Analysis- on the Indian Premier League(IPL) Sports Board**
+## **Task-5 : Exploratory Data Analysis- on IPL Sports Board**
           
 * **As a sports analyst, to find out the most successful teams, players and factors contributing win/loss of a team.**
 * **To suggest teams or players a company should endorse for its amelioration.**
